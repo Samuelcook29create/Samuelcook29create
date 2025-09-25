@@ -1,5 +1,5 @@
 This shows silks and blankets you can buy
-
+<a href=index.html>Go to homepage</a>
 <!--
 **Samuelcook29create/Samuelcook29create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
