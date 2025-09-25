@@ -1,4 +1,4 @@
-## Hi there 👋
+This shows silks and blankets you can buy
 
 <!--
 **Samuelcook29create/Samuelcook29create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
